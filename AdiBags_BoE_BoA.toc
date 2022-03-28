@@ -2,7 +2,7 @@
 
 ## Title: AdiBags - Filter for BoE/BoA
 ## Notes: Adds BoE/BoA filters to AdiBags.
-## Author: Outroot, Spanky
+## Author: Outroot, Spanky, ResurrectedAddons
 ## Version: v1.6
 
 ## Dependencies: AdiBags

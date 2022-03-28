@@ -1,4 +1,8 @@
 --[[
+Resurrected Addons
+This addon has been resurrected. Resurrected Addons have not been modified beyond making the addon function as originally designed.
+Added functionality is not done to Resurrected Addons.
+
 AdiBags_Bound - Adds BoE/BoA filters to AdiBags.
 Copyright 2010-2012 Kevin (kevin@outroot.com)
 All rights reserved.
