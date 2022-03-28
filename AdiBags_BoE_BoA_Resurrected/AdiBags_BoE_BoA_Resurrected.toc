@@ -7,4 +7,4 @@
 
 ## Dependencies: AdiBags
 
-AdiBags_BoE_BoA.lua
+AdiBags_BoE_BoA_Resurrected.lua
